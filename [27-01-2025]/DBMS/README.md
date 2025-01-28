@@ -1,4 +1,4 @@
-#Problem Statement:
+# Problem Statement:
 Write a solution to find the nth highest salary from the Employee table. If there is no nth highest salary, return null.
 
 ## Platform Used :
